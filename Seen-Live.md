@@ -1,5 +1,5 @@
 ###Seen Live (unfinished)
-
+--
 Korn
 Lamb of God
 Megadeath
@@ -39,14 +39,13 @@ Fri Feb 23 11:15:50 PM CST 2024
 Missing Life
 Hey, Ily
 Hazegazer
+(using date stamp commmands now)
 
 
 
 
-
-
-###This Year
-
+This Year
+--
 Your Arms Are My Cocoon
 Awakebutstillinbed
 Mystery Meat
