@@ -29,8 +29,6 @@ MS Paint
 
 
 
-(using date stamp commmands now)
-
 Fri Feb 23 11:15:50 PM CST 2024
 --
 Missing Life
