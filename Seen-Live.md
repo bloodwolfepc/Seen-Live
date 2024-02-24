@@ -7,6 +7,8 @@ Megadeath
 Car Seat Headrest
 Bartees Strange
 
+Mitski
+
 Andrew Bird
 Iron and Wine
 Meshell Ndegeocello
@@ -28,6 +30,21 @@ NATL PARK SRVC
 Frost Children
 MS Paint
 
+
+
+(using date stamp commmands now)
+
+Fri Feb 23 11:15:50 PM CST 2024
+--
+Missing Life
+Hey, Ily
+Hazegazer
+
+
+
+
+
+
 ###This Year
 
 Your Arms Are My Cocoon
@@ -40,6 +57,10 @@ Weatherday
 Glass Beach
 Arcadia Grey
 Fleece Kawasaki
+
+
+
+
 
 ###Wishlist
 
