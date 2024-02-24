@@ -1,8 +1,5 @@
 ###Seen Live (unfinished)
 --
-Korn
-Lamb of God
-Megadeath
 
 Car Seat Headrest
 Bartees Strange
